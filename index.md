@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nathan Thalathoty's ECS Portfolio
 
 You can use the [editor on GitHub](https://github.com/Nathan-17/ECS-Portfolio-JT2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
