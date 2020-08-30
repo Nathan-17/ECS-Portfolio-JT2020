@@ -1,7 +1,7 @@
 ## Welcome to Nathan Thalathoty's ECS Portfolio
 
 
-![typing test] (https://github.com/Nathan-17/ECS-Portfolio-JT2020/blob/gh-pages/images/pasted%20image%200.png?raw=true)
+![typing test](https://github.com/Nathan-17/ECS-Portfolio-JT2020/blob/gh-pages/images/pasted%20image%200.png?raw=true)
 
 
 You can use the [editor on GitHub](https://github.com/Nathan-17/ECS-Portfolio-JT2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
